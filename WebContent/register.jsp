@@ -7,10 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form method="post" action="product">
+	<form method="post" action="register">
 
-		Name:<input type="text" name="name"><br /> 
-		Price:<input type="text" name="price"><br />
+		Username:<input type="text" name="username"><br /> 
+		Password:<input type="password" name="password"><br />
 
 		<button type="submit">Submit</button>
 

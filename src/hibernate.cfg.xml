@@ -30,7 +30,7 @@
       </property>
       
       <!-- List of XML mapping files -->
-      <mapping class = "Com.Model.Product"/>
+      <mapping class = "Com.Model.User"/>
       
    </session-factory>
 </hibernate-configuration>

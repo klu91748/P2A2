@@ -7,10 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-Invalid Input! </br>
+Welcome <%= session.getAttribute("sesname") %>!</br>
 
 
 <br/>
-<a href="Home">Back</a>
+<a href="Home">Logout</a>
 </body>
 </html>

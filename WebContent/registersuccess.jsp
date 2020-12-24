@@ -11,6 +11,6 @@ Success! </br>
 
 
 <br/>
-<a href="Home">Back</a>
+<a href="Home">Home</a>
 </body>
 </html>
